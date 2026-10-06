@@ -29,7 +29,7 @@ function Index() {
         </header>
         <nav className="brand-links" aria-label="Links da ALMATUANDO">
           <Button asChild variant="brandLink">
-            <a href="https://docs.google.com/forms/d/1daZHK-SxPAHp9lXV1QBp6AVVOt7m68XgoAEzU22ixvY/viewform?pli=1&edit_requested=true&edit_requested=true" target="_blank" rel="noopener noreferrer">
+            <a href="https://formularioalmatuando.vercel.app/" target="_blank" rel="noopener noreferrer">
               <span>Lista de espera</span><ArrowUpRight aria-hidden="true" />
             </a>
           </Button>
