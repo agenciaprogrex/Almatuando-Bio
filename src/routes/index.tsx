@@ -39,6 +39,9 @@ function Index() {
             </a>
           </Button>
         </nav>
+        <footer className="brand-footer">
+          <p>Posicionamos marcas com estratégia, direção criativa e eventos</p>
+        </footer>
       </main>
     </div>
   );
