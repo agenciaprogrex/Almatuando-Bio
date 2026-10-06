@@ -34,7 +34,7 @@ function Index() {
             </a>
           </Button>
           <Button asChild variant="brandLink">
-            <a href="https://wa.me/5565981191120" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/5565992347338?text=Ol%C3%A1!%20Vim%20do%20Instagram%20da%20AlmAtuando.%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es..." target="_blank" rel="noopener noreferrer">
               <span>Contato</span><ArrowUpRight aria-hidden="true" />
             </a>
           </Button>
